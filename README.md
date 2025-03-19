@@ -13,8 +13,8 @@ Follow the steps below to set up the Laravel 11 project on your local environmen
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/RanggaCasper/starter-velzon-laravel.git
-   cd starter-velzon-laravel
+   git clone https://github.com/RanggaCasper/open-route-laravel.git
+   cd open-route-laravel
    ```
 
 2. **Install Composer Dependencies**
